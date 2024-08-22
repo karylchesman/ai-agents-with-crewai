@@ -11,6 +11,7 @@ langchain-openai = "==0.1.7"
 python-dotenv = "*"
 langchain-community = "==0.0.38"
 duckduckgo-search = "==5.3.0"
+streamlit = "*"
 
 [dev-packages]
 ipykernel = "*"
